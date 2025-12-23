@@ -1,2 +1,5 @@
+# Visualization
 matplotlib>=3.8
+
+# Graphs and tree visualization
 networkx>=3.2
